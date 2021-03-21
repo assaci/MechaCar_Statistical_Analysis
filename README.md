@@ -3,6 +3,7 @@
 ## Linear Regression to Predict MPG
 
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+
 ![Linear_Regression](https://github.com/assaci/MechaCar_Statistical_Analysis/blob/main/Linear_Regression.PNG?raw=true)
 
 From the finding we can see that vehicle_weight, spoiled_angle and ADW provides a non-random amount of variance to mpg valuein the dataset.Vehicle lentgh and ground_clearance are statistically unlikely to provide random amounts of variance to the linear model. 
@@ -15,5 +16,12 @@ The slope of the linear model is not considered to be zero because the P-value i
 
 R-squared is 0.714 which means aprroximattely 71% of variation in mpg values can be explained by our model (vehicle_lengtgh, vehicle_weight, spoiler_angle, ground_clearance and AWD).
 
+## Summary Statistics
 
+- Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
+![total_summary](https://github.com/assaci/MechaCar_Statistical_Analysis/blob/main/total_summary.PNG?raw=true)
+
+![lot_summary](https://github.com/assaci/MechaCar_Statistical_Analysis/blob/main/lot_summary.PNG?raw=true)
+
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Crrent manufacturing data meet the design specification for 
