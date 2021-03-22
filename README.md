@@ -22,7 +22,7 @@ R-squared is 0.714 which means aprroximattely 71% of variation in mpg values can
 
 ![Linear_Regression](https://github.com/assaci/MechaCar_Statistical_Analysis/blob/main/Linear_Regression.PNG?raw=true)
 
-## Summary Statistics
+## Summary Statistics on Suspension Coils
 
 The MechaCar Suspension_Coil dataset included the results from multiple manufacturing lots. In this dataset, the weight capacities of multiple suspension coils were tested to determine if the manufacturing process is consistent across production lots. 
 For our analysis we created a summary statistics table to show:
@@ -36,3 +36,10 @@ From statistical results, the variances for Lot 1, Lot 2, and Lot 3  are 0.979 7
 ![total_summary](https://github.com/assaci/MechaCar_Statistical_Analysis/blob/main/total_summary.PNG?raw=true)
 
 ![lot_summary](https://github.com/assaci/MechaCar_Statistical_Analysis/blob/main/lot_summary.PNG?raw=true)
+
+## T-Tests on Suspension Coils
+
+
+![t_test](https://github.com/assaci/MechaCar_Statistical_Analysis/blob/main/t_test.PNG?raw=true)
+
+![t_test_lots](https://github.com/assaci/MechaCar_Statistical_Analysis/blob/main/t_test_lots.PNG?raw=true)
