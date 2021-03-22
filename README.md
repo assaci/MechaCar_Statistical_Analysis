@@ -38,7 +38,8 @@ From statistical results, the variances for Lot 1, Lot 2, and Lot 3  are 0.979 7
 ![lot_summary](https://github.com/assaci/MechaCar_Statistical_Analysis/blob/main/lot_summary.PNG?raw=true)
 
 ## T-Tests on Suspension Coils
-In this section, we used suspension coils data to  perform t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
+In this section, we used suspension coils data to  perform t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch. 
+After running the T-tests, the statistical results from 3  samples show a P-value greater than 0.05. Only the result from Lot 3 is showing a P-value of 0.04 which is smaller than 0.05.
 
 ![t_test](https://github.com/assaci/MechaCar_Statistical_Analysis/blob/main/t_test.PNG?raw=true)
 
