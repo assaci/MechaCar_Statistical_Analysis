@@ -48,18 +48,18 @@ After running the T-tests, the statistical results from 3  samples show a P-valu
 ##  Design a Study Comparing the MechaCar to the Competition
 
 - What metric or metrics are you going to test?
-- 
+
  I will test the metric for safety ratings as many cars are being recalled for safety issues.
 
 - What is the null hypothesis or alternative hypothesis?
-- 
+
  The null Hypothesis is that all cars in the same category have the same safety ratings. The alternative hypothesisis all cars in the same category do not have the same safety   ratings
  
 - What statistical test would you use to test the hypothesis? And why?
--
  Chi-Square Test
  
 - What data is needed to run the statistical test?
+
  For the study, I would collect a sample of 50 cars from  of 10 differentcompetitors and run my test. 
 
 
